@@ -1,2 +1,6 @@
-ingredients
+# Ingredients
+- avocado
+- lemon
+- salt
 
+# Instructions
