@@ -4,4 +4,4 @@
 - salt
 
 # Instructions
-freeze avocado
+put one avocado into a bowl
